@@ -6,12 +6,12 @@ This file is currently written in slovak language only.
 Komu je tento projekt určený?
 Napríklad každému, kto si svoje heslá len tak ukladá to textového súboru.
 Nezašifrované heslá v elektronickej podobe sú relatívne ľahko ukradnuteľné.
-Zašifrovaním svojich citlivých údajov vo forme textu zvýšite bezpečnosť svojich uložených hesiel.
+Zašifrovaním svojich citlivých údajov vo forme textu zvýšite ich bezpečnosť.
 ---------------------------------------------------------
 
 ---------------------------------------------------------
 OBMEDZENIA
-- Program nedokáže pracovať so všetkými znakmi (viď abecedy.pdf).
+- Program nedokáže pracovať so všetkými znakmi (viď abecedy.txt).
 - Program nedokáže pracovať s netlačiteľnými znakmi (no medzery dokáže skonvertovať na podčiarkovníky "_")
 - Ak má otvorený text viac riadkov (resp. odsekov), musia byť skonvertované na špecifický znak (predvolený je ;), aby bolo možné ich obnoviť pri dešifrovaní
 ---------------------------------------------------------
@@ -43,10 +43,8 @@ Dešifrovanie
 OBSAH ZIP SÚBORU
 - readme.txt je tento uvádzací text :-)
 - sifra_emd.html je samotný šifrovací program spustiteľný prostredníctvom akéhokoľvek webového prehliadača (aj v mobile), nič iné na šifrovanie nepotrebujete
-- logika.pdf slúži len pre pochopenie činnosti môjho algoritmu (pre funkčnosť programu je nepodstatný)
 - abecedy.txt je súbor s predvolenými abecedami, slúži len ako vzor pre vaše vlastné abecedy (pre funkčnosť programu je nepodstatný)
 - abecedy_demo.txt je druhý variant abecéd, ktorý môžete použiť pri šifrovaní, no prednostne slúži ako vzor (pre funkčnosť programu je nepodstatný   za predpokladu, že ho nechcete používať)
-- abecedy.pdf obsahuje hlavnú abecedu a predvolené abecedy (pre funkčnosť programu je nepodstatný)
 ---------------------------------------------------------
 
 ---------------------------------------------------------
@@ -64,7 +62,7 @@ Vyhnite sa úvodzovkám (" a ') a hlavne spätnému lomítku (\), ktoré sa pou�
 Aký má vôbec zmysel vytvárať vlastné abecedy?
 Program má aj svoje predvolené abecedy, takže sa o nič neukrátite, ak vlastné abecedy nepoužijete.
 No ak vytvoríte vlastné abecedy, markantne zvýšite bezpečnosť svojich dát (ak ich samozrejme nenecháte na očiach potenciálnemu útočníkovi).
-Šifrovací kľúč je samozrejme tiež potrebný na dešifrovanie, no ak použijete slabý kľúč (napr. meno svojho psa) je možné dešifrovať dáta tzv. hrubou silou.
+Šifrovací kľúč je samozrejme tiež potrebný na dešifrovanie, no ak použijete slabý kľúč (napr. meno svojho psa) útočník môže heslo prelomiť tzv. hrubou silou.
 Použitím vlastných abecéd vytvoríte unikátny súbor, ktorý je na jednu stranu nepraktický, keďže ho musíte mať so sebou pre potrebu dešifrovania, no je omnoho bezpečnejší.
 Je to vlastne 16384 znakové, unikátne heslo, preto je tak bezpečné.
 
