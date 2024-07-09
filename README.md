@@ -44,9 +44,9 @@ Dešifrovanie
 3. Kliknite na tlačidlo "Dešifruj"
 
 - môžu sa objaviť rôzne chybové hlásenia a zároveň funkcie na opravu niektorých chýb (nahradenie medzier alebo značiek odseku)
-- kľúč môžete zobraziť kliknutím na začiarkovacie políčko
+- kľúč môžete zobraziť kliknutím na obrázok oka
 - je možné použiť aj vlastné abecedy, ktoré zvýšia bezpečnosť šifrovania (viac info nižšie)
-- nezašifrovaný aj zašifrovaný text môžete skopírovať do schránky pomocou modrých guľôčok po pravej strane textových polí
+- nezašifrovaný aj zašifrovaný text môžete skopírovať do schránky pomocou tlačidiel po pravej strane textových polí
 ---------------------------------------------------------
 
 ---------------------------------------------------------
