@@ -69,9 +69,9 @@ Vlastnosti súboru s abecedami:
 aáäbcčdďeéfghiíjklĺľmnňoóôpqrŕsštťuúvwxyýzžAÁÄBCČDĎEÉFGHIÍJKLĹĽMNŇOÓÔPQRŔSŠTŤUÚVWXYÝZŽ0123456789+-*/^<=>,.;:?!_§$€#&@{}[]()~|%¦˚
 
 Aký má zmysel používať vlastné abecedy?
-Program má aj svoje predvolené abecedy, takže sa o nič neukrátite, ak vlastné abecedy nepoužijete.
-No ak použijete vlastné abecedy, markantne zvýšite bezpečnosť svojich dát (ak ich samozrejme nenecháte na očiach potenciálnemu útočníkovi).
-Ak použijete slabý kľúč (napr. meno svojho psa) útočník môže heslo prelomiť tzv. hrubou silou, no s použitím súboru s abecedami mu takýto útok znemožníte (ak sa mu nedostane do rúk)
+Program má aj svoje predvolené abecedy, takže použitie vlastných nie je nutné, no vrelo odporúčam ich používať.
+Ak použijete vlastné abecedy, markantne zvýšite bezpečnosť svojich dát (ak ich samozrejme nenecháte na očiach potenciálnemu útočníkovi).
+Ak použijete slabý kľúč (napr. meno svojho psa) útočník môže heslo prelomiť tzv. hrubou silou, no s použitím súboru s abecedami mu takýto útok znemožníte (ak sa mu ten súbor nedostane do rúk)
 Vytvorením vlastných abecéd vlastníte unikátny súbor, ktorý je na jednu stranu nepraktický, keďže ho musíte mať so sebou pre potrebu dešifrovania, no je omnoho bezpečnejší.
-Je to vlastne 16384 znakové, unikátne heslo, preto je tak bezpečné.
+Je to vlastne 16384-znakové unikátne heslo, preto je tak bezpečné.
 ---------------------------------------------------------
